@@ -1,0 +1,11 @@
+animals = ["사자", "사자", "호랑이", "기린", "하마", "강아지", "고양이", "코끼리"]
+
+a = {}
+
+for i in animals:
+  if a[i] = a[i] + 1
+else:
+  a[i] = 1
+  
+print(a)
+    
